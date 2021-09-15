@@ -1,0 +1,26 @@
+body {
+  font-family: "Gill Sans Extrabold, sans-serif;";
+  min-height: 400px;
+  background-image: url("https://acegif.com/wp-content/gifs/moon-35.gif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  position: relative;
+  top: 250px;
+}
+
+.text {
+  position: relative;
+  top: 180px;
+  font-size: 25px;
+}
+
+#result {
+  font-size: 30px;
+}
